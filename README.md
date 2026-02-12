@@ -1,4 +1,4 @@
-![CR-3](https://github.com/user-attachments/assets/485b7ff1-c098-40bf-93b4-00058c8729a9)
+![CO-2](https://github.com/user-attachments/assets/44d96487-a2f2-433f-90ba-caa677807c10)
 
 ## 🥁 CarnaCode 2026 - Desafio 14 - Command
 
